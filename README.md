@@ -1,4 +1,5 @@
 # Resume Screening NLP System
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vsriram181/Resume-Screening-With-NLP/blob/main/Resume%20Screening%20with%20NLP%20(TF-IDF)/resume%20Screening%20using%20NLP.ipynb)
 
 A machine learning and NLP-based project that automates the **resume screening** process by matching resumes with job descriptions and ranking them based on similarity.  
 This project uses **TF-IDF**, **ML models**, and **BERT embeddings** to evaluate the relevance of resumes for given job descriptions.
